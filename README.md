@@ -12,4 +12,10 @@
 - The Node-RED Starter kit only supports deployment to the Cloud Foundry space of IBM Cloud. Select the region to deploy your application to. This should match the region you created your Cloudant instance in. Lite users might only be able to deploy to your default region. Click Next to continue.
 ![image](https://user-images.githubusercontent.com/36239840/90339533-56db7200-e002-11ea-9b78-75964d49a08b.PNG)
 - Configure the DevOps toolchain by selecting the region it should be created in – again, try to match the region you selected previously. Click Create. This will take you back to the application details page.
-![image](https://user-images.githubusercontent.com/36239840/90339534-593dcc00-e002-11ea-8851-f76cc5d8235f.PNG)
+- Deploying the application will take few minutes, after it's done deploying you will notice the application details have been updated and now you can access the Node-RED Application from App URL.
+![image](https://user-images.githubusercontent.com/36239840/90339873-19c4af00-e005-11ea-9471-f843c5426e46.PNG)
+- When you click on the click, you will be prompted to configure your Node-RED application. Once you are done, you will be redirected to a new page, click on "Go to your Node-RED flow editor"
+![image](https://user-images.githubusercontent.com/36239840/90340002-12ea6c00-e006-11ea-97b3-61c002678e9c.png)
+- Congratulations! you made it! :D
+![image](https://user-images.githubusercontent.com/36239840/90339878-1b8e7280-e005-11ea-9b0e-b53b434698fc.PNG)
+
