@@ -9,4 +9,4 @@ In this tutorial, we will be building an application that streams real-time twit
   - <a href="https://flows.nodered.org/node/node-red-contrib-web-worldmap">node-red-contrib-web-worldmap</a>
 ## Architecutre Diagram
 ![](https://user-images.githubusercontent.com/36239840/90247623-06b8b000-de48-11ea-9fca-8c698ba98e30.PNG)
-### Step1: Create Node-RED Application
+### <a href="./create-app.md">Step1: Create Node-RED Application</a>
