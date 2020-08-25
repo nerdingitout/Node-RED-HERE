@@ -3,7 +3,7 @@ In this tutorial, we will be building an application that streams real-time twit
 ![image](https://user-images.githubusercontent.com/36239840/91075370-04780200-e64f-11ea-8cd3-cd2f6cfb2bbd.png)
 ## Prerequisites
 - Signup for a <a href="https://bit.ly/HEREDevs">HERE Developer account</a>
-- Signup for an <a href="https://ibm.biz/HERETechnologies8">IBM Cloud account</a>
+- Signup for an <a href="https://ibm.biz/HERETechnologies">IBM Cloud account</a>
 - Apply for access to Twitter API by <a href="https://developer.twitter.com/en/apply-for-access">creating Twitter Developer account</a>
 - Add the following nodes to your Node-RED palette
   - <a href="https://flows.nodered.org/node/node-red-contrib-web-worldmap">node-red-contrib-web-worldmap</a>
