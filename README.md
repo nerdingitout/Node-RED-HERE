@@ -2,9 +2,9 @@
 In this tutorial, we will be building an application that streams real-time twitter updates on a map using Node-RED, Twitter API and HERE Technologies API.
 ![image](https://user-images.githubusercontent.com/36239840/91075370-04780200-e64f-11ea-8cd3-cd2f6cfb2bbd.png)
 ## Prerequisites
-- <a href="https://bit.ly/HEREDevs">Signup for a HERE Developer account</a>
-- <a href="https://ibm.biz/HERETechnologies">Signup for an IBM Cloud account</a>
-- <a href="https://developer.twitter.com/en/apply-for-access">Apply for access to Twitter API by creating Twitter Developer account</a>
+- Signup for a <a href="https://bit.ly/HEREDevs">HERE Developer account</a>
+- Signup for an <a href="https://ibm.biz/HERETechnologies">IBM Cloud account</a>
+- Apply for access to Twitter API by <a href="https://developer.twitter.com/en/apply-for-access">creating Twitter Developer account</a>
 - Add the following nodes to your Node-RED palette
   - <a href="https://flows.nodered.org/node/node-red-contrib-web-worldmap">node-red-contrib-web-worldmap</a>
   - <a href="https://flows.nodered.org/node/node-red-contrib-twitter-stream">node-red-contrib-twitter-stream</a>
