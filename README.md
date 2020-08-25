@@ -11,8 +11,8 @@ In this tutorial, we will be building an application that streams real-time twit
 ## Architecutre Diagram
 ![](https://user-images.githubusercontent.com/36239840/90247623-06b8b000-de48-11ea-9fca-8c698ba98e30.PNG)
 ## Steps
-### <a href="./create-app.md">Step1: Create Node-RED Application</a>
-### <a href="./Twitter-HERE.json">Step2: Import the flow</a>
+### <a href="./create-app.md">Step 1: Create Node-RED Application</a>
+### <a href="./Twitter-HERE.json">Step 2: Import the flow</a>
 ![image](https://user-images.githubusercontent.com/36239840/91162113-b6114480-e6dc-11ea-980c-ed83a803eedc.png)
 This flow flows as follows:
 1- Streaming Tweets from Twitter API
@@ -20,6 +20,11 @@ This flow flows as follows:
 3- Passing Tweets' Location to HERE Technologies GEO Coding Lookup API
 4- Saving the Longitude & Latitude from the GEO Coding API call
 5- Printing the details on the world map
+### Step 3: Add Your Twitter API credintials to the Twitter stream node
+![image](https://user-images.githubusercontent.com/36239840/91164200-bfe87700-e6df-11ea-8e7e-28d0cae874cc.png)
+### Step 4:Add your HERE Technologies API Key
+<img width="237" alt="Capture" src="https://user-images.githubusercontent.com/36239840/91164348-f4f4c980-e6df-11ea-8c4d-acfd1b3be458.PNG">
+### Step 5: Deploy the flow
 ## Useful Resources
 - <a href="https://developer.ibm.com/">IBM Developer</a>
 - <a href="https://developer.ibm.com/components/node-red/"> Node-RED on IBM Developer</a>
