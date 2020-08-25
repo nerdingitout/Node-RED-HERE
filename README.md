@@ -14,8 +14,12 @@ In this tutorial, we will be building an application that streams real-time twit
 ### <a href="./create-app.md">Step1: Create Node-RED Application</a>
 ### <a href="./Twitter-HERE.json">Step2: Import the flow</a>
 ![image](https://user-images.githubusercontent.com/36239840/91079273-e9a88c00-e654-11ea-80b6-6c2d992c040b.png)
-This flow flows as follows
-
+This flow flows as follows:
+1- Streaming Tweets from Twitter API
+2- Saving Tweet, Username, and Location into context variables
+3- Passing Tweets' Location to HERE Technologies GEO Coding Lookup API
+4- Saving the Longitude & Latitude from the GEO Coding API call
+5- Printing the details on the world map
 ## Useful Resources
 - <a href="https://developer.ibm.com/">IBM Developer</a>
 - <a href="https://developer.ibm.com/components/node-red/"> Node-RED on IBM Developer</a>
