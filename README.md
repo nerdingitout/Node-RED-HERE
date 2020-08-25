@@ -13,7 +13,7 @@ In this tutorial, we will be building an application that streams real-time twit
 ## Steps
 ### <a href="./create-app.md">Step1: Create Node-RED Application</a>
 ### <a href="./Twitter-HERE.json">Step2: Import the flow</a>
-![image](https://user-images.githubusercontent.com/36239840/91079273-e9a88c00-e654-11ea-80b6-6c2d992c040b.png)
+![image](https://user-images.githubusercontent.com/36239840/91162113-b6114480-e6dc-11ea-980c-ed83a803eedc.png)
 This flow flows as follows:
 1- Streaming Tweets from Twitter API
 2- Saving Tweet, Username, and Location into context variables
