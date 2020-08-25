@@ -14,7 +14,7 @@ In this tutorial, we will be building an application that streams real-time twit
 ### <a href="./create-app.md">Step 1: Create Node-RED Application</a>
 ### <a href="./Twitter-HERE.json">Step 2: Import the flow</a>
 ![image](https://user-images.githubusercontent.com/36239840/91184774-0ea50980-e6fe-11ea-971f-9d351f152b0b.png)
-This flow flows as follows:<br>
+##### This flow flows as follows:<br>
 1- Streaming Tweets from Twitter API<br>
 2- Saving Tweet, Username, and Location into context variables<br>
 3- Passing Tweets' Location to HERE Technologies GEO Coding Lookup API<br>
@@ -24,7 +24,7 @@ This flow flows as follows:<br>
 ![image](https://user-images.githubusercontent.com/36239840/91164200-bfe87700-e6df-11ea-8e7e-28d0cae874cc.png)
 
 ### Step 4:Add your HERE Technologies API Key
-<img width="237" alt="Capture" src="https://user-images.githubusercontent.com/36239840/91164348-f4f4c980-e6df-11ea-8c4d-acfd1b3be458.PNG">
+<img src="https://user-images.githubusercontent.com/36239840/91164348-f4f4c980-e6df-11ea-8c4d-acfd1b3be458.PNG">
 
 ### Step 5: Deploy the flow
 ## Useful Resources
