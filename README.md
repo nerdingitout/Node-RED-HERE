@@ -7,6 +7,7 @@ In this tutorial, we will be building an application that streams real-time twit
 - <a href="https://developer.twitter.com/en/apply-for-access">Apply for access to Twitter API by creating Twitter Developer account</a>
 - Add the following nodes to your Node-RED palette
   - <a href="https://flows.nodered.org/node/node-red-contrib-web-worldmap">node-red-contrib-web-worldmap</a>
+  - <a href="https://flows.nodered.org/node/node-red-contrib-twitter-stream">node-red-contrib-twitter-stream</a>
 ## Architecutre Diagram
 ![](https://user-images.githubusercontent.com/36239840/90247623-06b8b000-de48-11ea-9fca-8c698ba98e30.PNG)
 ## Steps
