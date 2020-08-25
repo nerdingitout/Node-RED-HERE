@@ -22,8 +22,10 @@ This flow flows as follows:
 5- Printing the details on the world map
 ### Step 3: Add Your Twitter API credintials to the Twitter stream node
 ![image](https://user-images.githubusercontent.com/36239840/91164200-bfe87700-e6df-11ea-8e7e-28d0cae874cc.png)
+
 ### Step 4:Add your HERE Technologies API Key
 <img width="237" alt="Capture" src="https://user-images.githubusercontent.com/36239840/91164348-f4f4c980-e6df-11ea-8c4d-acfd1b3be458.PNG">
+
 ### Step 5: Deploy the flow
 ## Useful Resources
 - <a href="https://developer.ibm.com/">IBM Developer</a>
