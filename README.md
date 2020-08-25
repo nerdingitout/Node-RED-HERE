@@ -13,13 +13,13 @@ In this tutorial, we will be building an application that streams real-time twit
 ## Steps
 ### <a href="./create-app.md">Step 1: Create Node-RED Application</a>
 ### <a href="./Twitter-HERE.json">Step 2: Import the flow</a>
-![image](https://user-images.githubusercontent.com/36239840/91162113-b6114480-e6dc-11ea-980c-ed83a803eedc.png)
-This flow flows as follows:
-1- Streaming Tweets from Twitter API
-2- Saving Tweet, Username, and Location into context variables
-3- Passing Tweets' Location to HERE Technologies GEO Coding Lookup API
-4- Saving the Longitude & Latitude from the GEO Coding API call
-5- Printing the details on the world map
+![image](https://user-images.githubusercontent.com/36239840/91184774-0ea50980-e6fe-11ea-971f-9d351f152b0b.png)
+This flow flows as follows:<br>
+1- Streaming Tweets from Twitter API<br>
+2- Saving Tweet, Username, and Location into context variables<br>
+3- Passing Tweets' Location to HERE Technologies GEO Coding Lookup API<br>
+4- Saving the Longitude & Latitude from the GEO Coding API call<br>
+5- Printing the details on the world map<br>
 ### Step 3: Add Your Twitter API credintials to the Twitter stream node
 ![image](https://user-images.githubusercontent.com/36239840/91164200-bfe87700-e6df-11ea-8e7e-28d0cae874cc.png)
 
